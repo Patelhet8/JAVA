@@ -1,4 +1,0 @@
-What is a purpose for using import "java.awt.*;" ..?
-java Awt is for a Graphic
-it is a platform
-
